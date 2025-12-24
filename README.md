@@ -107,17 +107,17 @@ Dự án áp dụng mô hình kiến trúc **DAO (Data Access Object)** giúp t�
 
  4. **Chạy ứng dụng:**
 
-   *Lưu ý: Đảm bảo MySQL Server đang chạy trước khi khởi động ứng dụng.*
+    *Lưu ý: Đảm bảo MySQL Server đang chạy trước khi khởi động ứng dụng.*
 
-   **Cách 1: Dùng Terminal (Khuyên dùng)**
-   ```bash
-   mvn clean javafx:run
-   ```
+    **Cách 1: Dùng Terminal (Khuyên dùng)**
+    ```bash
+    mvn clean javafx:run
+    ```
 
-   **Cách 2: Dùng IDE (IntelliJ IDEA / Eclipse)**
-   - Mở dự án và đợi Maven tải thư viện xong.
-   - Tìm file `src/main/java/com/eventmanagementsystem/Main.java`.
-   - Chuột phải chọn **Run 'Main.main()'**.
+    **Cách 2: Dùng IDE (IntelliJ IDEA / Eclipse)**
+    - Mở dự án và đợi Maven tải thư viện xong.
+    - Tìm file `src/main/java/com/eventmanagementsystem/Main.java`.
+    - Chuột phải chọn **Run 'Main.main()'**.
 
  ---
  
